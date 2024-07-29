@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center"><a href="https://flamesphp.com" target="_blank"><img src="https://i.ibb.co/5LBsG09/flames.png" width="400" alt="Laravel Logo"></a></p>
 
-<!--
-**flamesphp/flamesphp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+</p>
 
-Here are some ideas to get you started:
+## About Flames
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Flames** is a **PHP framework** for frontend, backend, console applications and a set
+of **PHP components**.
+
+## What? 
+Check documentation on official repository of [Flames](https://github.com/flamesphp/flames).
